@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header
+{
+    margin: 0;
+    top: 0;
+    left: 0;
+    
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #123;
+    color: #f2f2f2;
+    
+}
