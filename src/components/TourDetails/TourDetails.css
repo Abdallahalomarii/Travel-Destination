@@ -1,0 +1,23 @@
+.card 
+{
+    margin: 5rem auto;
+    width:20rem;
+    text-align: center;
+    font-size: 1.2rem;
+    
+    box-shadow: 0 12px 20px 10px rgba(0, 0, 0, 0.8);
+
+}
+.Details h1 
+{
+    color :#123;
+}
+#shrinklinebtn 
+{
+    display: none;
+}
+button:hover
+{
+    background-color: #123 !important;
+    transition: 0.5s all ease-in;
+}
