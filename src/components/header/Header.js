@@ -1,10 +1,11 @@
+import Navbar from '../Navbar/Navbar';
 import './Header.css';
-function Header ()
-{
-    return (<div className='header'>
-        <h1>
-        Travel Destination
-        </h1>
-    </div>)
+function Header() {
+    return (
+        <div className='header'>
+
+            <Navbar/>
+        </div>
+    )
 }
 export default Header
